@@ -37,3 +37,5 @@ A comprehensive library management system built using C, Shell scripting, and So
     ```bash
     gcc library_client.c -lpthread
     ./a.out
+4. You will see a menu in the client side.
+5. Follow the instructions and enjoy.
