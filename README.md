@@ -58,7 +58,6 @@ Below given is the description for each test suite:
 ---
 
 ### Book Management Tests
-![Suite_book_management ](images/Suite_book_management.png "Suite_book_management")
 
 3. **`test_add_new_book()`**  
    Tests the functionality of adding a new book to the system by checking if the book details are correctly written to `books.txt`.
@@ -90,7 +89,6 @@ Below given is the description for each test suite:
 ---
 
 ### Member Management Tests
-![Suite_member_management](images/Suite_member_management.png "Suite_member_management")
 
 12. **`test_add_member_success()`**  
     Tests adding a new member with valid credentials, expecting success.
@@ -119,7 +117,6 @@ Below given is the description for each test suite:
 ---
 
 ### Borrowing and Returning Tests
-![Suite_borrowing_books](images/Suite_borrowing_books.png "Suite_borrowing_books")
 
 20. **`test_borrow_book()`**  
     Tests borrowing a book by decrementing its count in `books.txt` and adding an entry to `borrowed_books.txt`.
@@ -128,6 +125,6 @@ Below given is the description for each test suite:
     Tests returning a borrowed book by incrementing its count in `books.txt` and removing the corresponding entry from `borrowed_books.txt`.
 
 ---
-![Suite_test_summary](images/Suite_test_summary.png "Suite_test_summary")
+
 
 
