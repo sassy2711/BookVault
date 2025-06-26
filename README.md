@@ -1,4 +1,4 @@
-# Online Library Management System
+# Book Vault - An Online Library Management System
 
 A comprehensive library management system built using C, Shell scripting, and Socket programming. This system provides robust functionality for both **admin** and **clients**, ensuring efficient management of library resources and user operations.
 
