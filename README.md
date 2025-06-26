@@ -47,7 +47,6 @@ The provided code performs unit testing for a library management system using th
 Below given is the description for each test suite:
 
 ### Admin Tests
-![Suite_admin_login  ](images/Suite_admin_login.png "Suite_admin_login")
 
 1. **`test_admin_check_valid_credentials()`**  
    Tests whether valid admin credentials are correctly recognized by the `admin_check` function.
